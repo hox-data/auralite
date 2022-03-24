@@ -1,4 +1,4 @@
-# AURALITE - Mixed Input Output Bot Automation
+# AURALITE - Application for Unified Recognition and Array-Labeling for Interpretation with Tesseract Environment
 
 ## Installation
 
