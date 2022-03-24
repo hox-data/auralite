@@ -1,0 +1,3 @@
+Run, C:\Users\gabri\Desktop\bebo\scripts\img_get.ahk
+Run, C:\Users\gabri\Desktop\bebo\scripts\crop.py
+Run, C:\Users\gabri\Desktop\bebo\scripts\text_from_screenshot.py
